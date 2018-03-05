@@ -1,4 +1,4 @@
 Hello, this is a test.
 Now, changed
-
+adds new functionality.*********
 User2 changed
